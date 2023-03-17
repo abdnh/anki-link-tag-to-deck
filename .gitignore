@@ -1,0 +1,6 @@
+venv/
+*.ankiaddon
+__pycache__/
+.mypy_cache/
+ankidata/
+meta.json
